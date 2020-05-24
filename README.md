@@ -1,6 +1,6 @@
 ### **React/Redux/Web-Development Resources** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Originally forked from [awesome-react](https://github.com/enaqx/awesome-react#react-general-resources)
+### Originally forked from [awesome-react](https://github.com/enaqx/awesome-react#react-general-resources)
 
 #### Videos
 
